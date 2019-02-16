@@ -1,5 +1,5 @@
-WalkMeHome.global
 # WalkMeHome
+
 
 “Am I safe?” 
 
@@ -13,9 +13,6 @@ Our team sees this concept as having the potential to grow into a way to study w
 
 Honestly,  a world that is safer for women is net safer for all folks of all genders, and we would hope that this can act as a model to ensure that everyone gets home safe. 
 
-<3
-
 -WalkMeHome Team
-
 
 
